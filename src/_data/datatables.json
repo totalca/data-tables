@@ -1,0 +1,86 @@
+{
+  "thead": [
+    {
+      "col": 1,
+      "content": ""
+    },
+    {
+      "col": 1,
+      "content": "2003–2006<sup>[6]</sup>"
+    },
+    {
+      "col": 1,
+      "content": "2007–2009<sup>[6]</sup>"
+    },
+    {
+      "col": 1,
+      "content": "2010–2013<sup>[6]</sup>"
+    },
+    {
+      "col": 1,
+      "content": "2014–2016<sup>[7]</sup>"
+    }
+  ],
+  "tbody": [
+    [
+      {
+        "col": 1,
+        "content": "Engine type"
+      },
+      {
+        "col": 4,
+        "content": "Four-stroke, liquid-cooled, DOHC, four-cylinder, 16-valve"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Displacement"
+      },
+      {
+        "col": 2,
+        "content": "953 cc (58.2 cu in)"
+      },
+      {
+        "col": 3,
+        "content": "1,043 cc (63.6 cu in)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Bore &amp; stroke"
+      },
+      {
+        "col": 2,
+        "content": "7.2 mm × 50.9 mm (3.04 in × 2.00 in)"
+      },
+      {
+        "col": 3,
+        "content": "77.0 mm × 56.0 mm (3.03 in × 2.20 in)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Top speed"
+      },
+      {
+        "col": 1,
+        "content": ""
+      },
+      {
+        "col": 1,
+        "content": "155 mph (249 km/h[8]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "149.3 mph (240.3 km/h[8]</sup>"
+      },
+      {
+        "col": 1,
+        "content": ""
+      }
+    ]
+  ]
+}
