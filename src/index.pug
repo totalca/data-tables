@@ -6,20 +6,16 @@ html(lang="en")
     link(rel="stylesheet", href="/style.css")
   body
     h1 Data tables rendered with CSS3 display grid
-    table
-      thead
-          tr
-            each tableData in data.datatables.thead
-              td(colspan=tableData.col)!= tableData.content
+    .table
+      each tableData in data.datatables.thead
+        .table-data(class=`table-data-span-${tableData.col} thead`)!= tableData.content
 
-      tbody
-        each tableRow in data.datatables.tbody
-          tr
-            each tableData, key in tableRow
-              if key === 0
-                th(colspan=tableData.col)!= tableData.content
-              else
-                td(colspan=tableData.col)!= tableData.content
+      each tableRow in data.datatables.tbody
+        each tableData, key in tableRow
+          if key === 0
+            .table-data(class=`table-data-span-${tableData.col} thead`)!= tableData.content
+          else
+            .table-data(class=`table-data-span-${tableData.col}`)!= tableData.content
 
     h1 Data tables rendered with table HTML tag
     table
