@@ -239,6 +239,232 @@
         "col": 1,
         "content": "Showa fully adjustable separate-function SFF-BP fork"
       }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Rear suspension / wheel travel"
+      },
+      {
+        "col": 4,
+        "content": "Bottom-Link <a href=''>Uni-Trak</a> with gas-charged shock, stepless rebound damping and adjustable spring preload / 5.9 in."
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Front tire size"
+      },
+      {
+        "col": 4,
+        "content": "120/70 ZR17"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Rear tire size"
+      },
+      {
+        "col": 4,
+        "content": "190/50 ZR17"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Wheelbase"
+      },
+      {
+        "col": 1,
+        "content": "1,420 mm (56 in)"
+      },
+      {
+        "col": 1,
+        "content": "1,445 mm (56.9 in)"
+      },
+      {
+        "col": 1,
+        "content": "1,440 mm (57 in)"
+      },
+      {
+        "col": 1,
+        "content": "1,435 mm (56.5 in)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Front brake type"
+      },
+      {
+        "col": 1,
+        "content": "Dual disc"
+      },
+      {
+        "col": 2,
+        "content": "Dual disc petal rotors"
+      },
+      {
+        "col": 1,
+        "content": "Four-piston Monoblock front brake calipers"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Rear brake type"
+      },
+      {
+        "col": 1,
+        "content": "Single disc"
+      },
+      {
+        "col": 3,
+        "content": "Single disc petal rotor"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Fuel tank capacity"
+      },
+      {
+        "col": 1,
+        "content": "19 L (4.2 imp gal; 5.0 US gal)"
+      },
+      {
+        "col": 1,
+        "content": "18.5 L (4.1 imp gal; 4.9 US gal)"
+      },
+      {
+        "col": 1,
+        "content": "15 L (3.3 imp gal; 4.0 US gal)"
+      },
+      {
+        "col": 1,
+        "content": "17 L (3.7 imp gal; 4.5 US gal)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Curb weight"
+      },
+      {
+        "col": 1,
+        "content": "221 kg (487 lb)"
+      },
+      {
+        "col": 1,
+        "content": "228 kg (503 lb<sup>)[10]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "218 kg (481 lb)<sup>[12]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "220 kg (490 lb)<sup>[13]</sup>"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Seat height"
+      },
+      {
+        "col": 3,
+        "content": "820 mm (32 in)"
+      },
+      {
+        "col": 1,
+        "content": "815.34 mm (32.100 in)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Overall length"
+      },
+      {
+        "col": 1,
+        "content": "2,080 mm (82 in)"
+      },
+      {
+        "col": 1,
+        "content": "2,090 mm (82 in)"
+      },
+      {
+        "col": 1,
+        "content": "2,095 mm (82.5 in)"
+      },
+      {
+        "col": 1,
+        "content": "2,044.7 mm (80.50 in)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Overall width"
+      },
+      {
+        "col": 1,
+        "content": "770 mm (30 in)"
+      },
+      {
+        "col": 1,
+        "content": "780 mm (31 in)"
+      },
+      {
+        "col": 1,
+        "content": "805 mm (31.7 in)"
+      },
+      {
+        "col": 1,
+        "content": "789.94 mm (31.100 in)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Overall height"
+      },
+      {
+        "col": 1,
+        "content": "1,055 mm (41.5 in)"
+      },
+      {
+        "col": 1,
+        "content": "1,065 mm (41.9 in)"
+      },
+      {
+        "col": 1,
+        "content": "1,085 mm (42.7 in)"
+      },
+      {
+        "col": 1,
+        "content": "1,054.1 mm (41.50 in)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Road clearance"
+      },
+      {
+        "col": 1,
+        "content": "145 mm (5.7 in)"
+      },
+      {
+        "col": 1,
+        "content": "160 mm (6.3 in)"
+      },
+      {
+        "col": 2,
+        "content": "140 mm (5.5 in)"
+      }
     ]
   ]
 }
