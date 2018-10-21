@@ -1,3 +1,3 @@
 # Data tables
 
-Starter package for pug (former jade) template based projects.
+Data tables rendered with table html tag and with CSS3 display grid
