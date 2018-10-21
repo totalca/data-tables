@@ -81,6 +81,164 @@
         "col": 1,
         "content": ""
       }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Maximum torque"
+      },
+      {
+        "col": 1,
+        "content": "95.6 N⋅m (70.5 lbf⋅ft) @ 8,000 rpm(claimed)<sup>[9]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "98.7 N⋅m (72.8 lbf⋅ft) @ 8,200 rpm(claimed)<sup>[10]</sup> 66.6 lb⋅ft (90.3 N⋅m) (rear wheel)<sup>[11]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "110 N⋅m (81 lbf⋅ft) @ 7,800 rpm(claimed)<sup>[12]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "111.0 N⋅m (81.9 lbf⋅ft) @ 7,300 rpm(claimed)<sup>[13]</sup>) 74.9 lb⋅ft (101.6 N⋅m) (rear wheel)<sup>[11]</sup>"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Maximum power"
+      },
+      {
+        "col": 1,
+        "content": "93.4 kW (125.3 hp) @ 10,000 rpm(claimed)<sup>[9]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "92 kW (123 hp) @ 10,000 rpm(claimed)<sup>[10]</sup> 108.8 hp (81.1 kW) (rear wheel)<sup>[11]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "101.5 kW (136.1 hp) @ 9,600 rpm(claimed)<sup>[12]</sup>"
+      },
+      {
+        "col": 1,
+        "content": "104.5 kW (140.1 hp) @ 10,000 rpm(claimed)<sup>[14][13</sup>] 125.8 hp (93.8 kW) (rear wheel)<sup>[11]</sup>"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Compression ratio"
+      },
+      {
+        "col": 2,
+        "content": "11.2:1"
+      },
+      {
+        "col": 2,
+        "content": "11.8:1"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Fuel injection"
+      },
+      {
+        "col": 2,
+        "content": "38 mm diameter x 4"
+      },
+      {
+        "col": 2,
+        "content": "38 mm diameter x 4"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Ignition"
+      },
+      {
+        "col": 4,
+        "content": "Battery and coil"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Transmission"
+      },
+      {
+        "col": 4,
+        "content": "6-speed, constant mesh, return shift"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Clutch"
+      },
+      {
+        "col": 4,
+        "content": "Wet, multi disc"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Final drive"
+      },
+      {
+        "col": 4,
+        "content": "Chain"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Frame type"
+      },
+      {
+        "col": 1,
+        "content": "Diamond, high-tensile steel"
+      },
+      {
+        "col": 1,
+        "content": "Backbone, high-tensile steel tubes and cast aluminum engine sub-frame"
+      },
+      {
+        "col": 2,
+        "content": "Twin-tube, aluminium"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Rake / trail"
+      },
+      {
+        "col": 1,
+        "content": "24&deg; / 101 mm (4.0 in)"
+      },
+      {
+        "col": 3,
+        "content": "24.5&deg; / 103 mm (4.1 in)"
+      }
+    ],
+    [
+      {
+        "col": 1,
+        "content": "Front suspension / wheel travel"
+      },
+      {
+        "col": 3,
+        "content": "41 mm inverted cartridge fork with stepless rebound damping and adjustable spring preload / 4.7 in."
+      },
+      {
+        "col": 1,
+        "content": "Showa fully adjustable separate-function SFF-BP fork"
+      }
     ]
   ]
 }
