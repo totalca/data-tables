@@ -5,6 +5,23 @@ html(lang="en")
     meta(name="description" content="Data tables rendered in a table and with grid")
     link(rel="stylesheet", href="/style.css")
   body
+    h1 Data tables rendered with CSS3 display grid
+    table
+      thead
+          tr
+            each tableData in data.datatables.thead
+              td(colspan=tableData.col)!= tableData.content
+
+      tbody
+        each tableRow in data.datatables.tbody
+          tr
+            each tableData, key in tableRow
+              if key === 0
+                th(colspan=tableData.col)!= tableData.content
+              else
+                td(colspan=tableData.col)!= tableData.content
+
+    h1 Data tables rendered with table HTML tag
     table
       thead
           tr
